@@ -1,7 +1,6 @@
 """
-Mini project 2
 computational-art
-
+creating artistic images with recursion in python.
 @author: Oscar Zhang
 """
 
@@ -166,7 +165,7 @@ def remap_interval(val,
     final_output = value * ratio + output_interval_start
 
     return final_output
-    # TODO: implement this
+
     pass
 
 
@@ -250,7 +249,5 @@ if __name__ == '__main__':
     import doctest
     doctest.testmod()
 
-    # Create some computational art!
-    # TODO: Un-comment the generate_art function call after you
-    #       implement remap_interval and evaluate_random_function
+
     generate_art("myart.png")
