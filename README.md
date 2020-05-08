@@ -1,6 +1,6 @@
 Oscar Zhang
 
-# Project Overview
+# Computational Art 
 Using purely python and mathetical computations to create randomly generated artistic images.
 An example of the output is included. Since output are generated randomly, every art is unique in itself.
 
