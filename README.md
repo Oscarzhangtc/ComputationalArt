@@ -4,7 +4,7 @@ Oscar Zhang
 Using purely python and mathetical computations to create randomly generated artistic images.
 An example of the output is included.
 
-Example:
+Example: myart.png
 
 ![example](/examples/myart.png)
 
