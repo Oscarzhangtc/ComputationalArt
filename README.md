@@ -8,7 +8,7 @@ Example: myart.png
 
 ![example](/examples/myart.png)
 
-# To run this project
+# Usage
 Make sure [python](https://www.python.org/downloads/) is installed on your device. 
 No packages needs to be installed.
 
