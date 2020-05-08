@@ -5,6 +5,7 @@ Using purely python and mathetical computations to create randomly generated art
 An example of the output is included.
 
 Example:
+
 ![example](/examples/myart.png)
 
 # To run this project
